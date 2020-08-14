@@ -4,11 +4,11 @@ This repository contains the CAD files for the universal 60% plates developed by
 
 ## Table of Contents
 
-- [Layouts](##Layouts)
-- Compatibility
-- Renders
-- Plate Specifications
-- About this Repository
+- [Layouts](#Layouts)
+- [Compatibility](#Compatibility)
+- [Renders](#renders)
+- [Plate Specifications](#plate-specifications)
+- [About this Repository](#this-repository)
 
 ## Layouts
 
