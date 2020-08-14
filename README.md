@@ -2,6 +2,14 @@
 
 This repository contains the CAD files for the universal 60% plates developed by FJLabs. These are designed to be cut with 1.5mm carbon fiber (though other plate materials also work), with at least a 0.1mm or better tolerance.
 
+## Table of Contents
+
+- Layouts
+- Compatibility
+- Renders
+- Plate Specifications
+- About this Repository
+
 ## Layouts
 
 There are two types of plates included: those with support for a **2.25U Left Shift** (common 60%) and a **2U Left Shift** (specialized). The layouts supported are below:
@@ -61,3 +69,5 @@ After generating the CAD files, minor modifications were made to prevent microsc
 ## This Repository
 
 The CAD files can be found in the *cad_files* folder and previous versions will be in past commits. 
+
+The CAD files are offered under MIT License which allows for commercial use without disclosing the source. This was provided for general interest, to help broaden the keyboard market and make it as accessible as possible. Feel free to use these source files to create other group buys, including different materials and what have you. Roam free, have fun, but most importantly, *be kind*.
