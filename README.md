@@ -2,7 +2,7 @@
 
 This repository contains the CAD files for the universal 60% plates developed by FJLabs. These are designed to be cut with 1.5mm carbon fiber (though other plate materials also work), with at least a 0.1mm or better tolerance.
 
-If you are interested in the current group-buy, please fill out the [Updated Interest Check](https://forms.gle/fkqsdYo3uiCMT57T8)!
+If you are interested in the current group-buy, please fill out the [Reddit Group Buy](https://www.reddit.com/r/mechmarket/comments/ic7gh7/gb_universal_60_carbon_fiber_15mm_plates_for_225u/)!
 
 ## Table of Contents
 
